@@ -25,7 +25,7 @@ Profile is a work in progress
 
 ## Socials
 
-[Twitter](), [Reddit](), [Discord](), [Keybase]()<br />
+[Twitter](https://twitter.com/_AlAzif), [Reddit](https://www.reddit.com/u/_alazif), [Discord](), [Keybase](https://keybase.io/alazif)<br />
 [Website](), [YouTube]()
 
 ---
